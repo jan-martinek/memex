@@ -48,7 +48,7 @@ collections:
         fields:
           - { label: Název, name: name, widget: string }
           - { label: Číslo, name: class, widget: string }
-          - { label: Uzavřená otázka, name: open, widget: markdown }
+          - { label: Otevřená otázka, name: open, widget: markdown }
           - label: Uzavřené otázky
             name: closed
             collapsed: false
