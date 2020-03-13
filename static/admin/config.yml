@@ -60,5 +60,6 @@ collections:
                   label: Nepoužívat,
                   name: remove,
                   widget: boolean,
+                  required: false,
                   hint: "Zaškrtněte, pokud chcete otázku odebrat.",
                 }
